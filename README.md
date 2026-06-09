@@ -6,7 +6,7 @@ StudyMate helps students manage study tasks, deadlines, priorities, and progress
 
 ## 🌐 Live Demo
 
-https://avi-reck.github.io/DecodeLabs-Internship/
+[Studymate](https://avi-reck.github.io/DecodeLabs-Internship/)
 
 ## 🚀 Features
 
