@@ -121,8 +121,8 @@ _Add screenshot here_
 
 **Aviral Singh**
 
-- GitHub: https://github.com/Avi-reck
-- Project Repository: https://github.com/Avi-reck/DecodeLabs-Internship
+- GitHub: [Avi-reck](https://github.com/Avi-reck)
+- Project Repository: [DecodeLabs-Internship](https://github.com/Avi-reck/DecodeLabs-Internship)
 
 ## 📜 License
 
